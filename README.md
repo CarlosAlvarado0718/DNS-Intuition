@@ -9,7 +9,7 @@
 In this tutorial, We'll simplify DNS (Domain Name System) and easily understand it. We'll explore DNS A-Records, Creating and Deleting Records, CNAME Records, and Root Hints.<br />
 
 >**Note***
->_The following uses material created in the pervious demonstration, ["On-premises Active Directory Deployed in the Cloud (Azure)"](https://github.com/CarlosAlvarado0718/Configure-AD)._
+>_The following uses material created in the previous demonstration, ["On-premises Active Directory Deployed in the Cloud (Azure)"](https://github.com/CarlosAlvarado0718/Configure-AD)._
 
 <h2>Environments and Technologies Used</h2>
 
